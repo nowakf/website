@@ -1,0 +1,17 @@
+!_TAG_FILE_FORMAT	2	/extended format; --format=1 will not append ;" to lines/
+!_TAG_FILE_SORTED	1	/0=unsorted, 1=sorted, 2=foldcase/
+!_TAG_OUTPUT_MODE	u-ctags	/u-ctags or e-ctags/
+!_TAG_PROGRAM_AUTHOR	Universal Ctags Team	//
+!_TAG_PROGRAM_NAME	Universal Ctags	/Derived from Exuberant Ctags/
+!_TAG_PROGRAM_URL	https://ctags.io/	/official site/
+!_TAG_PROGRAM_VERSION	0.0.0	/7918d19f/
+.flex-container	themes/blank/static/css/style.css	/^.flex-container {$/;"	c
+.flex-container > img	themes/blank/static/css/style.css	/^.flex-container > img {$/;"	s
+.flex-container.2 > img	themes/blank/static/css/style.css	/^.flex-container.2 > img {$/;"	s
+.flex-container2	themes/blank/static/css/style.css	/^.flex-container2{$/;"	c
+a	themes/blank/static/css/style.css	/^a{$/;"	s
+a:hover	themes/blank/static/css/style.css	/^a:hover{$/;"	s
+a:visited	themes/blank/static/css/style.css	/^a:visited{$/;"	s
+html	themes/blank/static/css/style.css	/^html {$/;"	s
+img	themes/blank/static/css/style.css	/^img {$/;"	s
+time	themes/blank/static/css/style.css	/^time {$/;"	s

@@ -1,0 +1,7 @@
+{{ if .IsNamedParams }}
+<div class="flex-container{{ .Get "c"}}">
+{{ else }}
+<div class="flex-container">
+	{{ .Inner }}
+</div>
+{{ end }}
