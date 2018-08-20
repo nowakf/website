@@ -1,5 +1,0 @@
-# Site settings
-baseurl = "http://example.org/"
-languageCode = "en-us"
-title = "nowakf"
-theme = "blank"
